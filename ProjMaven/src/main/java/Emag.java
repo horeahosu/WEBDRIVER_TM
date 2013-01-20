@@ -10,6 +10,7 @@ public class Emag {
 	@Test
 	public void Test1() throws InterruptedException
 	{
+		//comment
 		for (int i=1; i<500; i++)
 		{
 			driver.get("http://www.emag.ro/");
